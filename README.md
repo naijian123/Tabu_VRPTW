@@ -22,7 +22,7 @@
 以下以在Windows 10系统下执行为例：
 
 ```bash
-复制代码mkdir ./build
+mkdir ./build
 cd ./build
 cmake .. -G"Unix Makefiles"
 make
@@ -30,11 +30,3 @@ make
 ```
 
 执行上述操作后，程序将读取data文件夹下的R101.txt-R112.txt和R201.txt-R211.txt测试用例文件，并分别计算当用户点数量为100、50、25时VRPTW问题的解，并将其信息保存到./output 目录下。
-
->>>>>>> 151eef7 (这是git commit -m 的一条说明信息)
->>>>>>>
->>>>>>
->>>>>
->>>>
->>>
->>
