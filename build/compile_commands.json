@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/workfile/HW/Tabu_vrptw/build",
+  "command": "D:/APP/mingw/mingw64/bin/c++.exe   -g -std=gnu++20 -o CMakeFiles/TS_VNS.dir/src/main.cpp.obj -c D:/workfile/HW/Tabu_vrptw/src/main.cpp",
+  "file": "D:/workfile/HW/Tabu_vrptw/src/main.cpp",
+  "output": "CMakeFiles/TS_VNS.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/workfile/HW/Tabu_vrptw/build",
+  "command": "D:/APP/mingw/mingw64/bin/c++.exe   -g -std=gnu++20 -o CMakeFiles/TS_VNS.dir/src/operator.cpp.obj -c D:/workfile/HW/Tabu_vrptw/src/operator.cpp",
+  "file": "D:/workfile/HW/Tabu_vrptw/src/operator.cpp",
+  "output": "CMakeFiles/TS_VNS.dir/src/operator.cpp.obj"
+},
+{
+  "directory": "D:/workfile/HW/Tabu_vrptw/build",
+  "command": "D:/APP/mingw/mingw64/bin/c++.exe   -g -std=gnu++20 -o CMakeFiles/TS_VNS.dir/src/param.cpp.obj -c D:/workfile/HW/Tabu_vrptw/src/param.cpp",
+  "file": "D:/workfile/HW/Tabu_vrptw/src/param.cpp",
+  "output": "CMakeFiles/TS_VNS.dir/src/param.cpp.obj"
+},
+{
+  "directory": "D:/workfile/HW/Tabu_vrptw/build",
+  "command": "D:/APP/mingw/mingw64/bin/c++.exe   -g -std=gnu++20 -o CMakeFiles/TS_VNS.dir/src/solution.cpp.obj -c D:/workfile/HW/Tabu_vrptw/src/solution.cpp",
+  "file": "D:/workfile/HW/Tabu_vrptw/src/solution.cpp",
+  "output": "CMakeFiles/TS_VNS.dir/src/solution.cpp.obj"
+},
+{
+  "directory": "D:/workfile/HW/Tabu_vrptw/build",
+  "command": "D:/APP/mingw/mingw64/bin/c++.exe   -g -std=gnu++20 -o CMakeFiles/TS_VNS.dir/src/solution_run.cpp.obj -c D:/workfile/HW/Tabu_vrptw/src/solution_run.cpp",
+  "file": "D:/workfile/HW/Tabu_vrptw/src/solution_run.cpp",
+  "output": "CMakeFiles/TS_VNS.dir/src/solution_run.cpp.obj"
+}
+]

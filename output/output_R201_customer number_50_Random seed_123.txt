@@ -1,0 +1,58 @@
+Distance All: 824.31
+Capacity Violation: 0
+Time Violation: 0
+Route Used Num: 6
+Visited Customer Num: 50
+
+Route 0 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 1 : 
+Total Distance: 130.513	Total Demand: 113	Time Violation: 0	Customer Number: 8	Nodes: 0 2 39 23 21 41 22 40 6 0 
+Route 2 : 
+Total Distance: 135.811	Total Demand: 124	Time Violation: 0	Customer Number: 9	Nodes: 0 42 15 14 44 16 38 43 37 13 0 
+Route 3 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 4 : 
+Total Distance: 137.688	Total Demand: 104	Time Violation: 0	Customer Number: 8	Nodes: 0 33 29 3 50 20 10 32 1 0 
+Route 5 : 
+Total Distance: 160.512	Total Demand: 138	Time Violation: 0	Customer Number: 9	Nodes: 0 27 31 7 18 8 49 46 48 17 0 
+Route 6 : 
+Total Distance: 225.992	Total Demand: 190	Time Violation: 0	Customer Number: 13	Nodes: 0 5 45 36 47 19 11 30 9 34 35 24 4 25 0 
+Route 7 : 
+Total Distance: 33.7955	Total Demand: 52	Time Violation: 0	Customer Number: 3	Nodes: 0 28 12 26 0 
+Route 8 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 9 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 10 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 11 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 12 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 13 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 14 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 15 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 16 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 17 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 18 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 19 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 20 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 21 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 22 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 23 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+Route 24 : 
+Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
+================================================================================= 
+Execution Time: 28.372 s 
