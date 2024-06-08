@@ -55,4 +55,4 @@ Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 
 Route 24 : 
 Total Distance: 0	Total Demand: 0	Time Violation: 0	Customer Number: 0	Nodes: 0 0 
 ================================================================================= 
-Execution Time: 34.305 s 
+Execution Time: 57.991 s 

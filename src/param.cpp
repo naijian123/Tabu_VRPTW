@@ -30,6 +30,8 @@ int VEHICLE_NUMBER = 25 ; // Vehicle number
 int RANDOM_SEED = 123;
 std::string instance_name;
 
+string file_name_no_suffix;
+
 
 
 // Function to calculate Euclidean distance between two nodes

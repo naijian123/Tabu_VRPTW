@@ -4,6 +4,7 @@
 
 #include <fstream>
 #include <vector>
+#include <string>
 
 constexpr int INF_int = 0x3ffffff; // Infinity
 extern int ALL_CUSTOMER_NUMBER; // Customer number
@@ -13,6 +14,7 @@ constexpr int DURATION = 230; // Maximum operating duration
 constexpr int ITER_MAX = 2000; // Number of search iterations
 constexpr int TABU_TENURE = 20; // Tabu tenure
 extern int RANDOM_SEED; // Random seed
+extern std::string file_name_no_suffix;
 constexpr double INF_DOUBLE = double(0x1fffffffffffff);
 
 extern std::string instance_name;

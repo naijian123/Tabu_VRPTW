@@ -18,10 +18,10 @@ int main()
     // 取出../data/下所有数据文件的文件名
     vector<string> file_names = {"R101.txt", "R102.txt", "R103.txt", "R104.txt", "R105.txt", "R106.txt", "R107.txt", "R108.txt", "R109.txt", "R110.txt", "R111.txt", "R112.txt",
                                  "R201.txt", "R202.txt", "R203.txt", "R204.txt", "R205.txt", "R206.txt", "R207.txt", "R208.txt", "R209.txt", "R210.txt", "R211.txt"};
+    
     string filename;
-    string file_name_no_suffix;
-    vector<int> customer_num_vec = {100, 50, 25};
-    vector<int> RANDOM_SEED_VECTOR = {100, 101, 102, 103, 104, 105, 106};
+    vector<int> customer_num_vec = {100};
+    vector<int> RANDOM_SEED_VECTOR = {110, 111, 112, 113, 114, 115, 116, 117, 118, 119,120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135};
     for (auto rd_seed : RANDOM_SEED_VECTOR)
     {
         RANDOM_SEED = rd_seed;//更新随机数种子
